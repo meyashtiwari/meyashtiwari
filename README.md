@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=meyashtiwari&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
-
 <!--
 **meyashtiwari/meyashtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=meyashtiwari&show_icons=true&theme=gotham" alt="github stats" width="48%" align="center"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meyashtiwari&theme=dark" width="48%" >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meyashtiwari&theme=gotham)
