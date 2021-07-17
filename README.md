@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={meyashtiwari}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=meyashtiwari&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
 <!--
 **meyashtiwari/meyashtiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
