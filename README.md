@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Yash👋🏼,<br><br>A normal guy who loves coding and has experience of working in Software Development. I like to work on projects, hang out with friends and family, read books, go on adventures, and work on new ideas.
+Hey, I'm Yash👋🏼,<br><br>An introvert who loves coding and has experience of working in Software Development. I like to read books, go on adventures, and work on new ideas.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/731508457978724354) 
