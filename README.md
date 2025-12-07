@@ -60,11 +60,7 @@ I'm a passionate software developer who finds joy in crafting elegant solutions 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meyashtiwari&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meyashtiwari&theme=synthwave&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meyashtiwari&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 </div>
 
