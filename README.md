@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Yash Tiwari
 
-### Software Developer | Tech Enthusiast | Problem Solver
+### Computer Engineer | Tech Enthusiast | Problem Solver
 
 </div>
 
 ## 💫 About Me
 
-I'm a passionate software developer who finds joy in crafting elegant solutions to complex problems. As an introvert, I channel my energy into writing clean code and building innovative applications. When I'm not coding, you'll find me exploring new technologies, diving into a good book, or embarking on adventures that broaden my perspective.
+I'm a passionate engineer who finds joy in crafting elegant solutions to complex problems. As an introvert, I channel my energy into writing clean code and building innovative systems. When I'm not writing code, you'll find me exploring new technologies, diving into a good book, or embarking on adventures that broaden my perspective.
 
 🔭 **Currently Working On:** Building scalable web applications and exploring cloud architectures  
 🌱 **Learning:** Advanced cloud solutions, microservices architecture, and modern DevOps practices  
