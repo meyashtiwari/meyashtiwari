@@ -56,16 +56,6 @@ I'm a passionate software developer who finds joy in crafting elegant solutions 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meyashtiwari&theme=synthwave&hide_border=true)
-
-</div>
-
----
-
 ## 💭 Developer Wisdom
 
 <div align="center">
