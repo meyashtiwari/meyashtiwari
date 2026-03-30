@@ -1,23 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Yash Tiwari
+# Hi, I'm Yash Tiwari
 
 ### Computer Engineer | Tech Enthusiast | Problem Solver
 
 </div>
 
-## 💫 About Me
+## About Me
 
 I'm a passionate engineer who finds joy in crafting elegant solutions to complex problems. As an introvert, I channel my energy into writing clean code and building innovative systems. When I'm not writing code, you'll find me exploring new technologies, diving into a good book, or embarking on adventures that broaden my perspective.
 
-🔭 **Currently Working On:** Building scalable web applications and exploring cloud architectures  
-🌱 **Learning:** Advanced cloud solutions, microservices architecture, and modern DevOps practices  
-💡 **Interests:** Full-stack development, system design, and automation  
-📚 **Beyond Code:** Reading, adventure travel, and brainstorming innovative ideas
+**Currently Working On:** Building scalable web applications and exploring cloud architectures  
+**Learning:** Advanced cloud solutions, microservices architecture, and modern DevOps practices  
+**Interests:** Full-stack development, system design, and automation  
+**Beyond Code:** Reading, adventure travel, and brainstorming innovative ideas
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -29,13 +29,13 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=java&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -49,7 +49,7 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge&logo=postgres&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -57,8 +57,6 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
-
-## 💭 Developer Wisdom
 
 <div align="center">
 
@@ -68,7 +66,7 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 ---
 
-## 💰 Support My Work
+## Support My Work
 
 If you find my projects helpful or interesting, consider supporting my work!
 
@@ -82,7 +80,7 @@ If you find my projects helpful or interesting, consider supporting my work!
 
 <div align="center">
 
-### ⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
+### Thanks for visiting! Feel free to explore my repositories and connect with me.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meyashtiwari&color=blueviolet&style=for-the-badge)
 
