@@ -23,7 +23,7 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meyashtiwari)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/731508457978724354)
-[![Skype](https://img.shields.io/badge/Skype-Call-00AFF0?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/p7qT1zhqQSUC)
+[![Skype](https://img.shields.io/badge/Skype-Call-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/p7qT1zhqQSUC)
 
 </div>
 
@@ -35,7 +35,7 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-239120?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
@@ -49,7 +49,7 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge&logo=postgres&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -57,6 +57,12 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meyashtiwari&layout=compact&theme=radical&hide_border=true&langs_count=6)
+
+</div>
 
 <div align="center">
 
