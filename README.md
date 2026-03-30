@@ -60,12 +60,6 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meyashtiwari&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
-
-<div align="center">
-
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
