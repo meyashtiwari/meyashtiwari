@@ -67,6 +67,6 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Dev Quote](https://quotes-github-readme.vercel.app/api)
 
 </div>
