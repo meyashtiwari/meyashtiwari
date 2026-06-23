@@ -23,7 +23,6 @@ I'm a passionate engineer who finds joy in crafting elegant solutions to complex
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meyashtiwari)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/731508457978724354)
-[![Skype](https://img.shields.io/badge/Skype-Call-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/p7qT1zhqQSUC)
 
 </div>
 
